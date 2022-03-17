@@ -5,7 +5,6 @@ author        = "bichanna"
 description   = "Contains basic algorithms :)"
 license       = "MIT"
 srcDir        = "src"
-bin           = @["balgos"]
 
 
 # Dependencies

@@ -1,5 +1,5 @@
 #[
-  src/balgos.nim
+  balgos/mult.nim
 
   Written by Nobuharu Shimazu
   Date: 2022/3/16
