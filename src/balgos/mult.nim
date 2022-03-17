@@ -9,6 +9,15 @@ import strutils
 
 proc third_grade_mult*(x, y: int): int =
   ## Multiplies two integers by the third-grade multiplication algorithm
+  ##      1234
+  ##    x 5678
+  ## ----------
+  ##      9872
+  ##     8638
+  ##    7404
+  ##   6170
+  ## ----------
+  ##   7006652
   
   var resultStr: string = "0"
   
